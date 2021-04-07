@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T07:31:08.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="rCEr-LG9RWL_B3X8JwtY" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T07:44:51.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="03RMstIFn0B9AuQnVxga" version="14.5.7" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="1736" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -114,7 +114,7 @@
           <mxGeometry x="12.468545134682088" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3j51XcYKji7qNkUblrR8-45" value="Sub total" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=27;fontColor=#000000;" vertex="1" parent="3j51XcYKji7qNkUblrR8-23">
-          <mxGeometry x="219.38355351600748" width="120" height="40" as="geometry" />
+          <mxGeometry x="161.75355351600749" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3j51XcYKji7qNkUblrR8-51" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/simpline-mix/64/simpline_19-128.png;rounded=1;fillColor=#ffffff;fontSize=20;fontColor=#000000;" vertex="1" parent="3j51XcYKji7qNkUblrR8-21">
           <mxGeometry x="18.253846153846155" y="320" width="36.92307692307693" height="36.92307692307693" as="geometry" />
